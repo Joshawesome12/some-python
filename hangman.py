@@ -11,10 +11,10 @@ def hangman() :
     print ""
 
     # wait for 1 second
-    # time.sleep(1)
+    time.sleep(1)
 
     print "Start guessing..."
-    # time.sleep(5)
+    time.sleep(5)
 
     #Set the secret
     word = "secret"
